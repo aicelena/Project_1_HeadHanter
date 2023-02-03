@@ -1,12 +1,12 @@
 # <center> Проект 1. Анализ резюме на HeadHunter</center>
-[Проект 1](https://github.com/aicelena/sf_data_science/tree/main/project_1)
+[Проект 1](https://github.com/aicelena/Project_1_HeadHanter)
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/aicelena/sf_data_science/tree/main/project_1/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/aicelena/sf_data_science/tree/main/project_1/README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/aicelena/sf_data_science/tree/main/project_1/README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/aicelena/sf_data_science/tree/main/project_1/README.md#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/aicelena/sf_data_science/tree/main/project_1/README.md#Результат)    
+[1. Описание проекта](https://github.com/aicelena/Project_1_HeadHanter/README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/aicelena/Project_1_HeadHanter/README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/aicelena/Project_1_HeadHanter/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/aicelena/Project_1_HeadHanter/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/aicelena/Project_1_HeadHanter/README.md#Результат)    
 
 
 ### <center>Описание проекта</center>    
@@ -34,7 +34,7 @@
 
 Я испытала на себе основные этапы работы с данными на примере датасета о резюме и теперь не понаслышке знаю, как важно уметь правильно работать с данными.
 
-:arrow_up:[к оглавлению](https://github.com/aicelena/sf_data_science/tree/main/project_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/aicelena/Project_1_HeadHanter/README.md#Оглавление)
 
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
